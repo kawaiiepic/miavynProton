@@ -1,0 +1,13 @@
+"compatibilitytools"
+{
+  "compat_tools"
+  {
+    "MiavynTool"
+    {
+      "install_path" "."
+      "display_name" "MiavynTool"
+      "from_oslist"  "windows"
+      "to_oslist"    "linux"
+    }
+  }
+}
